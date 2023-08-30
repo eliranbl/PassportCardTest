@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassportCardTest", "PassportCardTest\PassportCardTest.csproj", "{DB2DFF56-5FAE-453D-82B4-48EFB529847B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassportCard.Domain", "PassportCard.Domin\PassportCard.Domain.csproj", "{C9792490-89C7-4881-8C7F-F8DFA5F6DE54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB2DFF56-5FAE-453D-82B4-48EFB529847B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB2DFF56-5FAE-453D-82B4-48EFB529847B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB2DFF56-5FAE-453D-82B4-48EFB529847B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB2DFF56-5FAE-453D-82B4-48EFB529847B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9792490-89C7-4881-8C7F-F8DFA5F6DE54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9792490-89C7-4881-8C7F-F8DFA5F6DE54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9792490-89C7-4881-8C7F-F8DFA5F6DE54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9792490-89C7-4881-8C7F-F8DFA5F6DE54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A2550FF-C98C-4E2E-9288-DF1D3F83EE0C}
+	EndGlobalSection
+EndGlobal

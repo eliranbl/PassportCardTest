@@ -1,0 +1,19 @@
+{
+  "GeneralPolicy": {
+    "type": "Travel",
+    "DateOfBirth": "1984-10-27",
+    "FullName": "Eliran"
+  },
+  "Travelpolicy": {
+    "Days": "10",
+    "Country": "Italy"
+  },
+  "LifeInsurance": {
+    "Amount": 100,
+    "IsSmoker": "true"
+  },
+  "HealthPolicy": {
+    "Gender": "Male",
+    "Deductible": "0"
+  }
+}
